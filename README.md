@@ -1,6 +1,7 @@
 # FCC-CAFE-MENU
 
 > This project gives information about a Camper Cafe.
+>It also gives details about clases of desserts and coffee
 
 ![cafe menu](app_screenshot.png)
 
