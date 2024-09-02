@@ -1,27 +1,36 @@
-# FCC-CAFE-MENUE
+# FCC-CAFE-MENU
 
-> One paragraph statement about the project.
+> This project gives information about a Camper Cafe.
 
-![screenshot](./app_screenshot.png)
+![cafe menu](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 Elements,
+<div>, <select>
+- CSS,
+  selector {
+  font-size: value;
+  margin: value;
+  color: value;
+  display: value;
+  }
+- Linters
+  https://prettier.io/
+  https://stylelint.io/
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/gbemisola19s-projects/03-set-of-colored-markers)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/02-fcc-cafe-menu.git
 
 ```
 
@@ -77,9 +86,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
