@@ -24,7 +24,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[Deployment link](https://vercel.com/gbemisola19s-projects/03-set-of-colored-markers)
+[Deployment link](https://vercel.com/gbemisola19s-projects/02-fcc-cafe-menu)
 
 ### Development (Running locally)
 
