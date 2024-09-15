@@ -1,7 +1,5 @@
 # FCC-CAFE-MENU
-
-> This project gives information about a Camper Cafe.
->It also gives details about clases of desserts and coffee
+> This project gives information about BASIC HTML and CSS elements
 
 ![cafe menu](app_screenshot.png)
 
@@ -10,17 +8,13 @@ Additional description of the project and its features.
 ## Built With
 
 - HTML5 Elements,
-<div>, <select>
+  - `div`, `select`
 - CSS,
-  selector {
-  font-size: value;
-  margin: value;
-  color: value;
-  display: value;
-  }
+  - `font-size`
+  - `margin``color` `display`
 - Linters
-  https://prettier.io/
-  https://stylelint.io/
+   - [Prettier](https://prettier.io/)
+   - [Styleleint](https://stylelint.io/)
 
 ## Live Demo
 
