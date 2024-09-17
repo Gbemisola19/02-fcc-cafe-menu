@@ -1,4 +1,5 @@
 # FCC-CAFE-MENU
+
 > This project gives information about BASIC HTML and CSS elements
 
 ![cafe menu](app_screenshot.png)
@@ -11,10 +12,10 @@ Additional description of the project and its features.
   - `div`, `select`
 - CSS,
   - `font-size`
-  - `margin``color` `display`
+  - ` margin``color ` `display`
 - Linters
-   - [Prettier](https://prettier.io/)
-   - [Styleleint](https://stylelint.io/)
+  - [Prettier](https://prettier.io/)
+  - [Styleleint](https://stylelint.io/)
 
 ## Live Demo
 
