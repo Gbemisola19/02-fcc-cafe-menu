@@ -1,36 +1,17 @@
-<<<<<<< HEAD
-# FCC-CAFE-MENU
+# Cafe Menu
 
-> This project gives information about BASIC HTML and CSS elements
-
-![cafe menu](app_screenshot.png)
-=======
-# Cafe  Menu
-
-> This is a project about a cafe menu and when it was estabished 
+> This is a project about a cafe menu and when it was estabished
 
 !(<img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>)
->>>>>>> 4a35fd656e066b4a74e1119c5fc45ec71609493b
 
->it also gives information about classes of coffee and desserts 
+> it also gives information about classes of coffee and desserts
 
 ## Built With
 
-<<<<<<< HEAD
-- HTML5 Elements,
-  - `div`, `select`
-- CSS,
-  - `font-size`
-  - ` margin``color ` `display`
-- Linters
-  - [Prettier](https://prettier.io/)
-  - [Styleleint](https://stylelint.io/)
-=======
-- Html 
+- Html
   .Semantic Elements such as div
   CSS
   . Such as margin, font-size, display and color
->>>>>>> 4a35fd656e066b4a74e1119c5fc45ec71609493b
 
 ## Live Demo
 
