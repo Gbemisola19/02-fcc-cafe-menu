@@ -1,28 +1,26 @@
-# Cafe  Menu
+# FCC Cafe Menu
 
-> This is a project about a cafe menu and when it was estabished 
+> This is a project about basic CSS and HTML elements
 
-!(<img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>)
-
->it also gives information about classes of coffee and desserts 
+![cafe menu](app_screenshot.png)
 
 ## Built With
 
-- Html 
-  .Semantic Elements such as div
-  CSS
-  . Such as margin, font-size, display and color
+- Html
+  - `div`
+- CSS
+  - `margin`, `font-size`, `display` `color`
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/gbemisola19s-projects/02-fcc-cafe-menu)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/02-fcc-cafe-menu.git
 
 ```
 
@@ -78,9 +76,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
