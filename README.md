@@ -8,7 +8,7 @@
 
 - Html
   - `div`
-    CSS
+- CSS
   - `margin`, `font-size`, `display` `color`
 
 ## Live Demo
