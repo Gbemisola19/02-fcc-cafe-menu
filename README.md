@@ -1,17 +1,15 @@
-# Cafe Menu
+# FCC Cafe Menu
 
-> This is a project about a cafe menu and when it was estabished
+> This is a project about basic CSS and HTML elements
 
-!(<img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>)
-
-> it also gives information about classes of coffee and desserts
+![cafe menu](app_screenshot.png)
 
 ## Built With
 
 - Html
-  .Semantic Elements such as div
-  CSS
-  . Such as margin, font-size, display and color
+  - `div`
+    CSS
+  - `margin`, `font-size`, `display` `color`
 
 ## Live Demo
 
